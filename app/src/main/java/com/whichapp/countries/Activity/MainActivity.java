@@ -69,6 +69,7 @@ public class MainActivity extends AppCompatActivity implements GetDataContract.V
         });
     }
 
+    
     //setup recycler view
     private void setUpRecyclerView() {
 
